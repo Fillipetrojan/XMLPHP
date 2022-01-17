@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Venda Venda_Total='16.23'> 
-	<Servico> 
-	<Cozinhar> File com fritas. 	 </Cozinhar> </Servico> 
-	<Produto ValorTotal="16.23"> 
-	<Fubá Valor="12.78"> 
-	<Valor> </Valor> </Fubá> 
-	<Maçã Valor="3.45"> 
-	<Valor> </Valor> </Maçã> 
-	<Laranja> 
-	<Valor> </Valor> </Laranja> </Produto> </Venda>
+<Venda Venda_Total="16.23">
+<Material>
+<Queijo> </Queijo>
+<Pão> </Pão>
+<Carne> </Carne> </Material>
+<Servico>
+<Cozinhar> </Cozinhar> </Servico>
+ </Venda>
